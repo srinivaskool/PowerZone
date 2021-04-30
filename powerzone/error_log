@@ -1,0 +1,40 @@
+[13-Dec-2018 14:01:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'rgtert' for column 'name' at row 1 in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[13-Dec-2018 14:02:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'dsbgrsf' for column 'name' at row 1 in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[13-Dec-2018 14:05:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'vy' for column 'name' at row 1 in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[13-Dec-2018 14:05:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'nandini' for column 'name' at row 1 in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[13-Dec-2018 14:08:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'Jzjx' for column 'name' at row 1 in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[13-Dec-2018 14:09:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'nandini' for column 'name' at row 1 in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[20-Dec-2018 04:03:00 UTC] PHP Notice:  Undefined variable: stmt in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[20-Dec-2018 04:03:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[20-Dec-2018 04:47:16 UTC] PHP Notice:  Undefined variable: stmt in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
+[20-Dec-2018 04:47:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/emjkhr3be3i3/public_html/powerzone/insert-data2.php on line 34
